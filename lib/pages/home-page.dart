@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gmail/pages/main-page.dart';
+import 'package:gmail/pages/mail-page.dart';
 import 'package:gmail/theme/theme-provider.dart';
 import 'package:gmail/widgets/fab/fab_collapsed.dart';
 import 'package:gmail/widgets/fab/fab_extended.dart';

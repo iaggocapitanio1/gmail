@@ -72,6 +72,8 @@ flutter:
   - family: Catull
     fonts:
       - asset: fonts/Catull.ttf
+  assets:
+    - assets/icon.webp
 
   # To add assets to your application, add an assets section, like this:
   # assets:
